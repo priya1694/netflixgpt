@@ -1,0 +1,15 @@
+to create a new project for create 
+npx create-react-app [name of the app]
+
+Install tailwind css
+->go to tailwindcss.com website and do it.
+
+Feautres to build :-
+->Login/signUp
+->browse (authentication)
+Header 
+main movie - trailer in background , title and description
+movies suggestion, movies list 
+->NetflixGpt
+search bar 
+netfix suggestion
