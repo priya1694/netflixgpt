@@ -13,3 +13,8 @@ movies suggestion, movies list
 ->NetflixGpt
 search bar 
 netfix suggestion
+
+To create router
+-> npm i -D react-router-dom
+
+to create big forms in ur react application use formik library.
